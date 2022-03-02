@@ -36,7 +36,7 @@ ul{
     font-weight: bold;
 }
 .navbar a:hover{
-    color: rgb(46,15,201);
+    color: rgb(45,15,201);
 }
 .navbar .container{
     display: flex;
